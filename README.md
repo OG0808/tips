@@ -28,9 +28,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [@SStranks87](https://github.com/SStranks/MyFirstRepository/tree/master/FrontEndMentor/14_Tip_Calculator_App)
-- Live Site URL: [@Netlify](https://brave-albattani-9c7a7d.netlify.app/)
-
 ## My process
 
 ### Built with
@@ -53,6 +50,3 @@ Users should be able to:
     Instead: Add/Remove Classes.
 - Bug: 10/3 gives long fraction which distorts the visual elements! Ensure decimal fixed to 2 places.
 
-## Author
-
-- Frontend Mentor - [@SStranks](https://www.frontendmentor.io/profile/SStranks)
